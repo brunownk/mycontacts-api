@@ -1,0 +1,11 @@
+{
+  "name": "mycontacts-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/brunownk/mycontacts-api.git",
+  "author": "brunownk <neckel.bw@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
